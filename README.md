@@ -20,4 +20,5 @@
 
 ## Documento final
 
+[S6-TRABAJO PRÁCTICO EXPERIMENTAL_2.pdf](https://github.com/user-attachments/files/33673908/S6-TRABAJO.PRACTICO.EXPERIMENTAL_2.pdf)
 
