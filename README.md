@@ -16,7 +16,8 @@
   
 ## Captura del tablero
 
-<img width="1365" height="674" alt="image" src="https://github.com/user-attachments/assets/8de39df2-0ef8-4856-95da-3e40f1df79ff" />
+<img width="1356" height="672" alt="image" src="https://github.com/user-attachments/assets/a533f8c4-9336-4d45-8207-de59318b935d" />
 
 ## Documento final
+
 
